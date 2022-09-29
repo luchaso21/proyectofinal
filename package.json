@@ -1,0 +1,23 @@
+{
+  "name": "galerialucianomarkarian",
+  "version": "2.0.0",
+  "description": "en este proyecto estoy creando una web de resposteria, para vender y ver diferentes tipos de tortas,galletitas,etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchaso21/terceraentrega.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchaso21/terceraentrega/issues"
+  },
+  "homepage": "https://github.com/luchaso21/terceraentrega#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
